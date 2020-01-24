@@ -1,6 +1,8 @@
 # Machine Learning From Scratch
 
 ## About
+I forked this repository to have a set of simple implementations to review algorithms. I will attempt to add and modify over time to increase understanding, not to improve the current implementation.
+
 Python implementations of some of the fundamental Machine Learning models and algorithms from scratch.
 
 The purpose of this project is not to produce as optimized and computationally efficient algorithms as possible
